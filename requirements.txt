@@ -1,0 +1,20 @@
+# Upstream research environment requirements; not installed or tested here.
+numpy>=1.24
+pandas>=2.0
+scipy>=1.10
+matplotlib>=3.7
+seaborn>=0.12
+torch>=2.0
+torchvision>=0.15
+transformers>=4.40
+pyarrow>=14.0
+Pillow>=10.0
+jupyter>=1.0
+ipykernel>=6.0
+ipywidgets>=8.0
+requests>=2.31
+beautifulsoup4>=4.12
+lxml>=4.9
+pytest>=7.4
+black>=23.0
+ruff>=0.1
